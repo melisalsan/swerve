@@ -1,4 +1,4 @@
-# SwerveBot-2022 -- 3512'den aldim. 
+# Swerve Attempt-- 3512'den aldim. 
 ### Modified from Team 364's [BaseFalconSwerve](https://github.com/Team364/BaseFalconSwerve) project to utilize __NEO motors__
  [instructions](https://github.com/Team364/BaseFalconSwerve#setting-constants) to modifiy the constants to fit
 
